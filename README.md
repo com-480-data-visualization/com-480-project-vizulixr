@@ -2,7 +2,7 @@
 
 | Student's name | SCIPER |
 | -------------- | ------ |
-| Yuearn Liang|293823 |
+| Yueran Liang|293823 |
 | Saibo Geng  |307629 |
 | Yufei WANG|319728 |
 
