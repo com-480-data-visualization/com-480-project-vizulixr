@@ -55,12 +55,6 @@ India, the holder of second largest user community in the world is a export cham
 
 The tables show the activities of Stack Overflow users in the frame of a **global trading**. We believe this is a very unique and impressive idea to compare it with trading. Based on this assumption, we can use this as a metric to measure a country's computer science education's developpment. 
 
-**To add**:
-
-Snapshot of dataset
-xxxxxxxxxxx
-xxxxxxxxxxx
-
 ## 4. Related Work
 
 1. related work
