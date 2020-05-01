@@ -13,7 +13,7 @@
 **10% of the final grade**
 
 
-## Milestone 2 (Friday 1st May, 5pm)
+## [Milestone 2 (Friday 1st May, 5pm)](https://github.com/com-480-data-visualization/com-480-project-vizulixr/blob/master/Milestone2.pdf)
 
 **10% of the final grade**
 
