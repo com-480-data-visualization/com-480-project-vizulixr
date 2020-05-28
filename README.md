@@ -24,7 +24,7 @@
 
 ## [Milestone 3 (Thursday 28th May, 5pm)](https://github.com/com-480-data-visualization/com-480-project-vizulixr/blob/master/COM480%20Process%20Book.pdf)
 
-Screencast: https://www.youtube.com/watch?v=79q4d4APjXA
+Screencast: https://www.youtube.com/watch?v=QTeRGCJxrwo&feature=youtu.be
 
 Our website: https://saibo-creator.github.io/global-flow-on-stackoverflow/
 
